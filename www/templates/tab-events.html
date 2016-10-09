@@ -1,0 +1,33 @@
+<ion-view view-title="<img class='title-image' src='img/hr-icon-small.png' />RavennaMia">
+  <ion-nav-buttons side="right">
+    <a class="button button-full" ng-click="modal.hide()" style="margin: 0; background: transparent; border: 0">
+        <i class="icon ion-ios-search-strong"></i>
+    </a>
+  </ion-nav-buttons>
+  <ion-content class="padding">
+    <div class="item title">
+      <h1>Eventi</h1>
+    </div>
+
+    <div class="list-eventi-container">
+      <ion-list class="list-eventi">
+        <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="chat in chats" type="item-text-wrap" href="#/tab/events/{{chat.id}}">
+          <img ng-src="{{chat.face}}">
+          <h2>{{chat.name}}</h2>
+          <p>{{chat.lastText}}</p>
+          <i class="icon ion-chevron-right icon-accessory"></i>
+
+          <ion-option-button class="button-assertive" ng-click="remove(chat)">
+            Delete
+          </ion-option-button>
+        </ion-item>
+      </ion-list>
+    </div>
+  </ion-content>
+
+  <a ng-click="modal.show()">
+    <div class="shuffle floating">
+        <i class="icon ion-ios-shuffle-strong"></i>
+    </div>
+  </a>
+</ion-view>

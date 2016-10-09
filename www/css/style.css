@@ -1,0 +1,95 @@
+/* general */
+h5{
+	text-transform: uppercase;
+	text-align: center;
+}
+button{
+	text-transform: uppercase;
+}
+a{
+	text-decoration: none;
+}
+.text-uppercase{
+	text-transform: uppercase;
+}
+.card{
+	margin: 10px;
+    box-shadow: none;
+}
+
+.shuffle.floating{
+	position: fixed;
+	bottom: 70px;
+	right: 30px;
+	background: #2667a1;
+	padding: 13px 17px;
+	border-radius: 50%;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, .4);
+}
+.shuffle.floating i:before{
+	color: #fff;
+	font-size: 16px;
+}
+
+/* all pages */
+.item.title{
+    background-color: #f4f4f4;
+    border: 0;
+    text-transform: uppercase;
+}
+.item.title h1{
+	font-size: 16px;
+	color: #849197;
+}
+ion-header-bar .title-image{
+	width: 24px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+/* tabs */
+.tabs .tab-item .icon-monument-on,
+.tabs .tab-item .icon-monument-off {
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: contain;
+	background-size: 20%;
+	height: 100%;
+}
+.tabs .tab-item .icon-monument-on {
+	background-image: url('../img/hr-icon-monument-on.png');
+}
+.tabs .tab-item .icon-monument-off {
+	background-image: url('../img/hr-icon-monument-off.png');
+}
+.tabs .tab-item .icon-monument-on:before,
+.tabs .tab-item .icon-monument-off:before {
+	content: '';
+}
+
+/* monuments */
+.grid-monumenti{
+	margin-top: 10px;
+}
+.grid-monumenti .row,
+.grid-monumenti .row .col{
+	padding: 0;
+}
+.grid-monumenti .row .col{
+	max-width: 32% !important;
+	margin-left: 1%;
+	border: 2px solid #f4f4f4;
+	padding: 5px;
+}
+.grid-monumenti div.col img{
+	max-width: 100%;
+}
+
+/* events */
+.list-eventi-container{
+	margin-top: 10px;
+}
+.item-avatar .item-content > img:first-child{
+	border-radius: 0;
+}

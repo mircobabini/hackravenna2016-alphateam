@@ -1,0 +1,40 @@
+<ion-view view-title="<img class='title-image' src='img/hr-icon-small.png' />RavennaMia">
+  <ion-nav-buttons side="right">
+    <a class="button button-full" ng-click="modal.hide()" style="margin: 0; background: transparent; border: 0">
+        <i class="icon ion-ios-search-strong"></i>
+    </a>
+  </ion-nav-buttons>
+  <ion-content class="padding">
+    <div class="item title">
+      <h1>Monumenti (4/62)</h1>
+    </div>
+    <div ng-repeat="chat in chats" class="grid-monumenti">
+
+      <div ng-if="$index%3==0" class="row">
+        <div class="col col-33" ng-if="$index < chats.length">
+          <a href="#/tab/monuments/{{chats[$index].id}}">
+            <img ng-src="{{chats[$index].face}}" />
+          </a>
+        </div>
+        <div class="col col-33" ng-if="$index+1 < chats.length">
+          <a href="#/tab/monuments/{{chats[$index+1].id}}">
+            <img ng-src="{{chats[$index+1].face}}" />
+          </a>
+        </div>
+        <div class="col col-33" ng-if="$index+2 < chats.length">
+          <a href="#/tab/monuments/{{chats[$index+2].id}}">
+            <img ng-src="{{chats[$index+2].face}}" />
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+  </ion-content>
+
+  <a ng-click="modal.show()">
+    <div class="shuffle floating">
+        <i class="icon ion-ios-shuffle-strong"></i>
+    </div>
+  </a>
+</ion-view>

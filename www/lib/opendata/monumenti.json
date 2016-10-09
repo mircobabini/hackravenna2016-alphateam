@@ -1,0 +1,1251 @@
+{
+   "Schede": {
+      "Scheda": [
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Mausoleo di Galla Placidia",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Mausoleo-di-Galla-Placidia",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Argentario, 22 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.419787",
+                  "_Long": "12.196221"
+               }
+            },
+            "Descrizione": "Galla Placidia, sorella dell'imperatore Onorio che trasferÃ¬ la capitale dell'Impero Romano d'Occidente da Milano a Ravenna, fece costruire per sÃ© intorno al 425-450 questo piccolo mausoleo a croce latina, oggi famoso per lo splendore dei suoi mosaici.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25810",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Mausoleum of Galla Placidia",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Mausoleum-of-Galla-Placidia",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Argentario, 22 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.419787",
+                  "_Long": "12.196221"
+               }
+            },
+            "Descrizione": "Galla Placidia (386-452), sister of Honorius, the Roman Emperor who transferred the Capital of the Western Empire from Milan to Ravenna, built this little Latin cross-shaped Mausoleum around 425-450, now worldwide famous for the splendour of its mosaics",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25810",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Basilica di San Vitale",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Basilica-di-San-Vitale",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Argentario, 22 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.419787",
+                  "_Long": "12.196221"
+               }
+            },
+            "Descrizione": "La Basilica di San Vitale, consacrata nel 548 dall'arcivescovo Massimiano, Ã¨ uno dei monumenti piÃ¹ importanti dell'arte paleocristiana in Italia, soprattutto per la bellezza dei suoi mosaici",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25808",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Basilica of San Vitale",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Basilica-of-San-Vitale",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Argentario, 22 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.419787",
+                  "_Long": "12.196221"
+               }
+            },
+            "Descrizione": "Consecrated by Archbishop Maximian in 548, the Basilica of San Vitale is one of the most important monuments of early Christian art in Italy, especially for the splendour of its mosaics.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25808",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Basilica di Sant'Apollinare Nuovo",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Basilica-di-Sant%27Apollinare-Nuovo",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Di Roma, 52 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.413983",
+                  "_Long": "12.205517"
+               }
+            },
+            "Descrizione": "Fatta costruire da Teoderico, la Basilica di Sant'Apollinare Nuovo conserva ancora oggi la decorazione musiva originale, la quale consente di seguire l'evoluzione del mosaico parietale bizantino dall'etÃ  teodoriciana a quella giustinianea.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25812",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Basilica of Sant'Apollinare Nuovo",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Basilica-of-Sant%27Apollinare-Nuovo",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Di Roma, 52 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.413983",
+                  "_Long": "12.205517"
+               }
+            },
+            "Descrizione": "Built by Theoderic, the Basilica of Sant'Apollinare Nuovo preserves the magnificent mosaic decoration of the original church, documenting the evolution of Byzantine wall mosaics from the age of Theoderic to that of Justinian.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25812",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Battistero Neoniano",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Battistero-Neoniano",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Duomo, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415778",
+                  "_Long": "12.196621"
+               }
+            },
+            "Descrizione": "Il Battistero Neoniano, una costruzione in laterizi di forma ottagonale con quattro grandi nicchie esterne, Ã¨ il piÃ¹ antico dei monumenti ravennati, almeno come inizio di costruzione, databile alla fine del IV secolo / inizi del V secolo.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25705",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Neonian Baptistry",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Neonian-Baptistry",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Duomo, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415778",
+                  "_Long": "12.196621"
+               }
+            },
+            "Descrizione": "Considering the beginning of its construction, the Neonian Baptistry, built at the end of the 4th or early 5th century, is the most ancient monument in Ravenna. It is a simple octagonal-shaped brick building with four big external niches.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25705",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Cappella Arcivescovile o di Sant'Andrea",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Cappella-Arcivescovile-o-di-Sant%27Andrea",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Arcivescovado, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415237",
+                  "_Long": "12.197617"
+               }
+            },
+            "Descrizione": "Costruita dal vescovo Pietro II come oratorio privato durante il regno di Teodorico, la cappella arcivescovile o di Sant'Andrea presenta un vestibolo rivestito di marmo nella parte inferiore e decorato a mosaico in quella superiore.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25814",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Oratory of Sant'Andrea - Archiepiscopal Chapel",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Oratory-of-Sant%27Andrea---Archiepiscopal-Chapel",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Arcivescovado, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415237",
+                  "_Long": "12.197617"
+               }
+            },
+            "Descrizione": "The cross-shaped Oratory of S. Andrea - Archiepiscopal Chapel was erected by bishop Peter II as a private oratory during the reign of Theodoric. The lower part of its vestibule is covered with marble and the upper one is decorated with mosaics.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25814",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.02",
+            "Titolo": "Museo Arcivescovile",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Musei_-gallerie/Museo-Arcivescovile",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Arcivescovado, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415237",
+                  "_Long": "12.197617"
+               }
+            },
+            "Descrizione": "Situato al primo e secondo piano dell'antico e vasto Palazzo dell'Arcivescovado di Ravenna, il Museo accoglie numerose opere d'arte provenienti dall'antica cattedrale e da altre costruzioni ora distrutte, come la famosa cattedra in avorio di Massimiano.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25712",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.02",
+            "Titolo": "Archiepiscopal Museum",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Museums-and-galleries/Archiepiscopal-Museum",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Arcivescovado, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415237",
+                  "_Long": "12.197617"
+               }
+            },
+            "Descrizione": "The Archiepiscopal Museum is located on the first and second floor of the Archiepiscopal Palace and contains numerous artworks that belonged to the ancient cathedral and to other buildings now demolished, such as the famous ivory throne of Maximian.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25712",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica di Sant'Agata Maggiore",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Basilica-di-Sant%27Agata-Maggiore",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Mazzini, 46 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.413970",
+                  "_Long": "12.200971"
+               }
+            },
+            "Descrizione": "La Basilica di Sant'Agata Maggiore si colloca nel centro storico della cittÃ , nei pressi della basilica di San Francesco. Ã una delle chiese piÃ¹ antiche della cittÃ , edificata nel V secolo ai tempi del vescovo Pietro II",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24806",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica of Sant'Agata Maggiore",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Basilica-of-Sant%27Agata-Maggiore",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Mazzini, 46 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.413970",
+                  "_Long": "12.200971"
+               }
+            },
+            "Descrizione": "The Basilica of SantâAgata Maggiore is located in the city centre, only a few steps away from the Basilica of San Francesco. It is one of the oldest churches in town, erected in the fifth century during the episcopacy of Peter II",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24806",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Mausoleo di Teoderico",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Mausoleo-di-Teoderico",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Delle Industrie, 14 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.424323",
+                  "_Long": "12.209765"
+               }
+            },
+            "Descrizione": "Fatto costruire dallo stesso Teodorico nel 520 d.C. come propria sepoltura, il mausoleo si colloca a circa un chilometro dal centro di Ravenna, in una zona utilizzata durante il regno dei Goti come sepolcreto.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it27325",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Mausoleum of Theoderic",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Mausoleum-of-Theoderic",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Delle Industrie, 14 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.424323",
+                  "_Long": "12.209765"
+               }
+            },
+            "Descrizione": "The mausoleum, located approximately one kilometre away from the centre of Ravenna, was built by Theodoric in 520 AD as his burial site in an area used by the Goths as a cemetery.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en27325",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica di San Francesco",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Basilica-di-San-Francesco",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza San Francesco, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415815",
+                  "_Long": "12.200459"
+               }
+            },
+            "Descrizione": "La Basilica di San Francesco risale alla metÃ  del V secolo d.C. Ben poco rimane della prima chiesa paleocristiana, a causa dei continui rifacimenti che hanno interessato l'edificio nei secoli. Qui nel 1321 si svolsero i funerali di Dante Alighieri.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25138",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica of San Francesco",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Basilica-of-San-Francesco",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza San Francesco, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415815",
+                  "_Long": "12.200459"
+               }
+            },
+            "Descrizione": "The Basilica of San Francesco goes back to the mid-5th century AD. Because of the frequent reconstructions, very little remains of the original early Christian church. Dante Alighieriâs funeral was celebrated here in 1321.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25138",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Basilica di Sant'Apollinare in Classe",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Basilica-di-Sant%27Apollinare-in-Classe",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Romea Sud, 224 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.377484",
+                  "_Long": "12.234815"
+               }
+            },
+            "Descrizione": "Edificata durante la prima metÃ  del VI sec. da Giuliano Argentario su ordine dell'arcivescovo Ursicino, la Basilica di SantâApollinare in Classe Ã¨ stata definita come il piÃ¹ grande esempio di basilica paleocristiana.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it27323",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Basilica of Sant'Apollinare in Classe",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Basilica-of-Sant%27Apollinare-in-Classe",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Romea Sud, 224 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.377484",
+                  "_Long": "12.234815"
+               }
+            },
+            "Descrizione": "The Basilica of Sant'Apollinare in Classe was commissioned by Archbishop Ursicino and built by Giuliano Argentario during the first half of the 6th century. It has been described as the most impressive basilica of Early Christian period.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en27323",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Chiesa di San Giovanni Battista",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Chiesa-di-San-Giovanni-Battista",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Rossi Girolamo, 45 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.420421",
+                  "_Long": "12.200806"
+               }
+            },
+            "Descrizione": "La Basilica, anteriore al IX secolo, fu demolita e ricostruita nel 1683. Il campanile del sec. IX ha due ordini di ampie monofore sormontate da bifore e trifore. All'interno della Basilica Ã¨ in mostra permanente un presepe artistico napoletano",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24894",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Church of San Giovanni Battista",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Church-of-San-Giovanni-Battista",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Rossi Girolamo, 45 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.420421",
+                  "_Long": "12.200806"
+               }
+            },
+            "Descrizione": "The Church of San Giovanni Battista was built before the 9th century. Its contemporary bell tower shows two rows of big single lancet windows topped by double and triple lancet windows. A Neapolitan nativity scene is on display inside the basilica.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24894",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Chiesa di San Giovanni Evangelista",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Chiesa-di-San-Giovanni-Evangelista",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Carducci, 10 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.417927",
+                  "_Long": "12.205654"
+               }
+            },
+            "Descrizione": "Eretta nel V secolo d.C. dallâimperatrice Galla Placidia, la chiesa Ã¨ stata gravemente danneggiata dai bombardamenti aerei del 1944. Si sono persi i mosaici dell'abside; restano invece, esposti alcuni frammenti del pavimento del 1213",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24899",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Church of San Giovanni Evangelista",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Church-of-San-Giovanni-Evangelista",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Carducci, 10 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.417927",
+                  "_Long": "12.205654"
+               }
+            },
+            "Descrizione": "The Church of San Giovanni Evangelista was built in the 5th century by Galla Placidia. In 1944, it was severely damaged by an air attack that destroyed of the apse mosaics. Fragments of the floor mosaics (1213) are on display inside the basilica.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24899",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica di Santa Maria in Porto",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Basilica-di-Santa-Maria-in-Porto",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Di Roma, 19 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.414547",
+                  "_Long": "12.205281"
+               }
+            },
+            "Descrizione": "Costruita nel corso del XVI secolo, la fastosa facciata della Basilica di Santa Maria in Porto fu modificata nella seconda metÃ  del XVIII secolo dall'architetto Camillo Morigia, sovrapponendo uno stile neoclassico al barocco della parte inferiore",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24829",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica of Santa Maria in Porto",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Basilica-of-Santa-Maria-in-Porto",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Di Roma, 19 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.414547",
+                  "_Long": "12.205281"
+               }
+            },
+            "Descrizione": "The Basilica of Santa Maria in Porto, built in the 16th century, was modified by architect Camillo Morigia in the second half of the 18th century, who decorated the upper part of the sumptuous Baroque faÃ§ade in Neoclassical style.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24829",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Chiesa di Santa Maria Maggiore",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Chiesa-di-Santa-Maria-Maggiore",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Galla Placidia, 10 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.421391",
+                  "_Long": "12.197775"
+               }
+            },
+            "Descrizione": "Edificata dal vescovo Ecclesio nel V secolo d.C., fu ricostruita nel 1671. Il campanile circolare Ã¨ del IX-X secolo.Al suo interno vi Ã¨ un quadro di Luca Longhi raffigurante San Paolo in visita San Agnese in carcere",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24901",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Church of Santa Maria Maggiore",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Church-of-Santa-Maria-Maggiore",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Galla Placidia, 10 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.421391",
+                  "_Long": "12.197775"
+               }
+            },
+            "Descrizione": "The Church of Santa Maria Maggiore was erected by bishop Ecclesius in the 6th century and rebuilt in 1671. The cylindrical bell-tower dates back to the 9th/10th century. It hosts a painting by Luca Longhi, portraying St. Paul visiting St. Agatha in prison",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24901",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica dello Spirito Santo",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Basilica-dello-Spirito-Santo",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazzetta degli Ariani, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.418562",
+                  "_Long": "12.202124"
+               }
+            },
+            "Descrizione": "La Basilica di Santo Spirito fu ufficiata dapprima dai vescovi Ariani e poi ridotta al culto cattolico dall'arcivescovo Agnello. La facciata Ã¨ dominata dal portico del '500. La chiesa, a tre navate, Ã¨ scandita da colonne sormontate da capitelli e pulvini.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24835",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Basilica of the Holy Spirit",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Basilica-of-the-Holy-Spirit",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazzetta degli Ariani, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.418562",
+                  "_Long": "12.202124"
+               }
+            },
+            "Descrizione": "The Basilica of Spirito Santo was consecrated by Arian bishops and then converted to Catholic religion by archbishop Agnellus. A 5th-century porch dominates the faÃ§ade. It is divided into a nave and two aisles, separated by fourteen columns.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24835",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Duomo o Basilica Ursiana",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Duomo-o-Basilica-Ursiana",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Duomo, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415778",
+                  "_Long": "12.196621"
+               }
+            },
+            "Descrizione": "L'antica cattedrale detta Basilica Ursiana fu edificata nel V sec. dal vescovo Orso. Nei secoli successivi fu ampiamente modificata e nel 1733 ricostruita su un disegno di Giovanni Francesco Buonamici",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25013",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Cathedral or Basilica Ursiana",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Duomo-or-Basilica-Ursiana",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Piazza Duomo, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.415778",
+                  "_Long": "12.196621"
+               }
+            },
+            "Descrizione": "The Cathedral was designed by Giovanni Francesco Buonamici and completely re-built between 1734 and 1735 on the site where Bishop Urso had erected the former cathedral of the city (Basilica Ursiana) at the end of the 4th century.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25013",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Chiesa di Santa Croce",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Chiesa-di-Santa-Croce",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Galla Placidia, 5 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.420395",
+                  "_Long": "12.196686"
+               }
+            },
+            "Descrizione": "I resti della chiesa si trovano accanto al Mausoleo di Galla Placidia. Eretta dalla prima metÃ  del V secolo dallâimperatrice, ciÃ² che vediamo oggi Ã¨ la facciata del Seicento, l'abside del Quattrocento e il campanile del Settecento",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24944",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Church of Santa Croce",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Church-of-Santa-Croce",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Galla Placidia, 5 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.420395",
+                  "_Long": "12.196686"
+               }
+            },
+            "Descrizione": "The remains of the Church of Santa Croce, erected in the first half of the 5th century, are located close to Mausoleum of Galla Placidia. What we see today is the 17th century faÃ§ade, the 15th century apse and the 18th-century bell tower.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24944",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.02",
+            "Titolo": "Museo Nazionale di Ravenna",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Musei_-gallerie/Museo-Nazionale-di-Ravenna",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via San Vitale, 17 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.420139",
+                  "_Long": "12.195934"
+               }
+            },
+            "Descrizione": "Situato nei chiostri dell'ex monastero benedettino, nel complesso monumentale di San Vitale, il Museo Nazionale raccoglie importanti collezioni artistiche e archeologiche",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it27326",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.02",
+            "Titolo": "National Museum of Ravenna",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Museums-and-galleries/National-Museum-of-Ravenna",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via San Vitale, 17 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.420139",
+                  "_Long": "12.195934"
+               }
+            },
+            "Descrizione": "The National Museum of Ravenna is situated in the cloisters of the former Benedictine Monastery, in the monumental complex of San Vitale and contains some important artistic and archaeological collections.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en27326",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Battistero degli Ariani",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco/Battistero-degli-Ariani",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Vicolo Degli Ariani, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.418562",
+                  "_Long": "12.202124"
+               }
+            },
+            "Descrizione": "Verso la fine del V secolo, quando ormai Teodorico aveva consolidato il suo dominio e l'arianesimo era religione ufficiale di corte, nella piazzetta dell'attuale chiesa dello Spirito Santo fu eretto il Battistero degli Ariani.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it27324",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Arian Baptistery",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage/Arian-Baptistery",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Vicolo Degli Ariani, 1 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.418562",
+                  "_Long": "12.202124"
+               }
+            },
+            "Descrizione": "The Baptistery was built in the small square of the church of the Holy Spirit (former Arian cathedral) at the end of the 5th Century, when Theoderic had already consolidated his dominion and Arianism had become the official religion of the Court.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en27324",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Chiesa Monumentale di Santa Maria del Suffragio",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Chiese_-battisteri/Chiesa-Monumentale-di-Santa-Maria-del-Suffragio",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Serafino Ferruzzi - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.418104",
+                  "_Long": "12.200290"
+               }
+            },
+            "Descrizione": "Costruita tra il 1701 e 1728 fu voluta dalla Confraternita della Beata Vergine dei Suffragi. Opera di Francesco Fontana Ã¨ d'impianto ed espressione barocca. La chiesa Ã¨ a pianta centrale, di forma ottagonale con una cappella corrispondente su ogni lato",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25979",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.04",
+            "Titolo": "Church of Santa Maria del Suffragio",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Churches_-baptisteries/Church-of-Santa-Maria-del-Suffragio",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Serafino Ferruzzi - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.418104",
+                  "_Long": "12.200290"
+               }
+            },
+            "Descrizione": "Built between 1701 and 1728, the baroque Church of Santa Maria del Suffragio was designed by architect Fontana. The central-plan building has an octagonal perimeter with alternating long and short sides.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25979",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.07",
+            "Titolo": "Area archeologica di Classe",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Siti-archeologici/Area-Archeologica-di-Classe",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Marabina, 1 - Ravenna (RA)",
+               "Localita": "Classe",
+               "Coordinate": {
+                  "_Lat": "44.396888",
+                  "_Long": "12.220569"
+               }
+            },
+            "Descrizione": "L'area archeologica di Classe Ã¨ costituita da alcuni magazzini portuali edificati lungo le banchine di un canale e prospicienti una strada in trachite euganea, costruiti agli inizi del V secolo quando Ravenna divenne residenza imperiale dâOccidente.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25029",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.07",
+            "Titolo": "Classe archaeological site",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Archeological-sites/Classe-archaeological-site",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Marabina, 1 - Ravenna (RA)",
+               "Localita": "Classe",
+               "Coordinate": {
+                  "_Lat": "44.396888",
+                  "_Long": "12.220569"
+               }
+            },
+            "Descrizione": "The archaeological site of Classe encompasses a series of warehouses built along the banks of a canal and lined along a road paved with trachyte, probably built in the early 5th century AD when Ravenna was the capital of the Western Roman Empire.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25029",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.18",
+            "Titolo": "Tomba di Dante e Quadrarco di Braccioforte",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Monumenti-alla-memoria/Tomba-di-Dante-e-Quadrarco-di-Braccioforte",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Alighieri Dante, 9 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.416257",
+                  "_Long": "12.200862"
+               }
+            },
+            "Descrizione": "Costruito da Camillo Morigia nel 1780, il tempietto conserva le ossa di Dante Alighieri. L'esterno Ã¨ in stile neoclassico, all'interno sopra il sarcofago Ã¨ presente un rilievo di Pietro Lombardo scolpito nel 1483 raffigurante Dante davanti a un leggio",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it27092",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.18",
+            "Titolo": "Dante's tomb and Quadrarco of Braccioforte",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Memorials/Dante%27s-tomb-and-Quadrarco-di-Braccioforte",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Alighieri Dante, 9 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.416257",
+                  "_Long": "12.200862"
+               }
+            },
+            "Descrizione": "The little neoclassical temple, built in 1780 by architect Camillo Morigia, houses Dante's bones. In the interior of the Tomb, a 1483 relief by Pietro Lombardo, situated above the sarcophagus, depicts Dante at a reading-desk",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en27092",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.02",
+            "Titolo": "MAR - Museo d'Arte della CittÃ  di Ravenna",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Musei_-gallerie/MAR---Museo-d%27Arte-della-Citt%C3%A0-di-Ravenna",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Di Roma, 13 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.413768",
+                  "_Long": "12.206312"
+               }
+            },
+            "Descrizione": "Il MAR - Museo d'Arte della CittÃ  di Ravenna si trova all'interno del complesso monumentale della Loggetta Lombardesca, il monastero cinquecentesco dell'adiacente Abbazia di San Maria in Porto.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it26941",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.02",
+            "Titolo": "MAR - City Art Museum of Ravenna",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Museums-and-galleries/MAR---City-Art-Museum-of-Ravenna",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Di Roma, 13 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.413768",
+                  "_Long": "12.206312"
+               }
+            },
+            "Descrizione": "MAR â Ravenna Art Museum is located in the monumental site known as Loggetta Lombardesca, a monastery from the 16th century belonging to the near San Maria in Porto Abbey.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en26941",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.12",
+            "Titolo": "Rocca Brancaleone",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Castelli_-torri_-campanili/Rocca-Brancaleone",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Rocca Brancaleone - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.422494",
+                  "_Long": "12.205035"
+               }
+            },
+            "Descrizione": "La Rocca Brancaleone fu costruita dai veneziani a partire dal 1457 allo scopo di rafforzare le difese della cittÃ",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it25860",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.12",
+            "Titolo": "Brancaleone Fortress",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Castles_-towers_-bell-towers/Brancaleone-Fortress",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Rocca Brancaleone - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.422494",
+                  "_Long": "12.205035"
+               }
+            },
+            "Descrizione": "Rocca Brancaleone was built by the Venetians in 1457 with the purpose of reinforcing the defensive structures of the city.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en25860",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.07",
+            "Titolo": "Domus dei Tappeti di Pietra",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Siti-archeologici/Domus-dei-Tappeti-di-Pietra",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Barbiani, 7 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.419238",
+                  "_Long": "12.194664"
+               }
+            },
+            "Descrizione": "Riportata alla luce fra 1993 e 1994, la Domus dei Tappeti di Pietra Ã¨ uno dei piÃ¹ importanti siti archeologici italiani scoperti negli ultimi decenni. Comprende una serie di strutture edilizie databili tra l'etÃ  romana repubblicana e il periodo bizantino",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it27315",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.07",
+            "Titolo": "Domus of the Stone Carpets",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Archeological-sites/Domus-of-the-Stone-Carpets",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Via Barbiani, 7 - Ravenna (RA)",
+               "Coordinate": {
+                  "_Lat": "44.419238",
+                  "_Long": "12.194664"
+               }
+            },
+            "Descrizione": "Brought to light between 1993 and 1994, Domus dei Tappeti di Pietra is one of the most important archaeological discoveries of the last decades. It includes a complex of buildings dating back from the Roman Republic through the Byzantine time.",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en27315",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Ravenna Patrimonio Mondiale",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/ita/Scopri-il-territorio/Arte-e-cultura/Patrimonio-Unesco",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Ravenna (RA)"
+            },
+            "Descrizione": "Dal 1996 gli otto monumenti paleocristiani della cittÃ  di Ravenna sono patrimonio Mondiale dell'UmanitÃ .",
+            "_RedazioneLocale": "11",
+            "_Lingua": "it",
+            "_Id": "it24322",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         },
+         {
+            "Categoria": "2.02.01",
+            "Titolo": "Ravenna World Cultural Heritage",
+            "UrlScheda": {
+               "__cdata": "http://www.turismo.ra.it/eng/Discover-the-area/Art-and-culture/Unesco-world-heritage",
+               "toString": [
+                  null
+               ]
+            },
+            "Comune": {
+               "IstatComune": "039014",
+               "Indirizzo": "Ravenna (RA)"
+            },
+            "Descrizione": "Since 1996, the eight Early Christian monuments of Ravenna form part of the Unesco World Heritage",
+            "_RedazioneLocale": "11",
+            "_Lingua": "en",
+            "_Id": "en24322",
+            "_Data": "2014-02-28",
+            "_Ordinamento": "0"
+         }
+      ],
+      "_xmlns": "SchedeTurismoRER-V1",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "_xsi:schemaLocation": "SchedeTurismoRER-V1 AnagraficheTurismo.xsd"
+   }
+}
